@@ -1,0 +1,25 @@
+{
+      "java.project.referencedLibraries": [
+            "lib/**/*.jar",
+            "javaKniznicaUloha2\\lib\\mysql-connector-j-8.0.33.jar",
+            "javaKniznicaUloha2\\lib\\servlet-api.jar",
+            "javaKniznicaUloha2\\lib\\tomcat-servlet-api-11.0.0-M7.jar"
+      ],
+      "liveServer.settings.port": 5501,
+      "sqltools.connections": [
+            {
+                  "mysqlOptions": {
+                        "authProtocol": "default",
+                        "enableSsl": "Disabled"
+                  },
+                  "previewLimit": 50,
+                  "server": "localhost",
+                  "port": 3306,
+                  "driver": "MySQL",
+                  "name": "MySQL80",
+                  "database": "kniznica",
+                  "username": "root",
+                  "password": "show_pussy8squirrel~hairy"
+            }
+      ]
+}

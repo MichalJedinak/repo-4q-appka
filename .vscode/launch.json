@@ -1,0 +1,112 @@
+{
+      // Use IntelliSense to learn about possible attributes.
+      // Hover to view descriptions of existing attributes.
+      // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+      "version": "0.2.0",
+      "configurations": [
+            {
+                  "type": "java",
+                  "name": "Autors",
+                  "request": "launch",
+                  "mainClass": "kniznica.objects.Autors",
+                  "projectName": "Java_Library_Database_Project_5e0d20b0"
+            },
+            {
+                  "type": "java",
+                  "name": "Autor",
+                  "request": "launch",
+                  "mainClass": "kniznica.objects.Autor",
+                  "projectName": "Java_Library_Database_Project_5e0d20b0"
+            },
+            {
+                  "type": "java",
+                  "name": "Book",
+                  "request": "launch",
+                  "mainClass": "kniznica.objects.Book",
+                  "projectName": "Java_Library_Database_Project_5e0d20b0"
+            },
+            {
+                  "type": "java",
+                  "name": "Genre",
+                  "request": "launch",
+                  "mainClass": "kniznica.objects.Genre",
+                  "projectName": "Java_Library_Database_Project_5e0d20b0"
+            },
+            {
+                  "type": "java",
+                  "name": "Main",
+                  "request": "launch",
+                  "mainClass": "kniznica.Main",
+                  "projectName": "Java_Library_Database_Project_5e0d20b0"
+            },
+            {
+                  "type": "java",
+                  "name": "KniznicaDtb",
+                  "request": "launch",
+                  "mainClass": "kniznica.webapp.KniznicaDtb",
+                  "projectName": "javaKniznicaUloha2_8dbd6156"
+            },
+            {
+                  "type": "java",
+                  "name": "Kniha",
+                  "request": "launch",
+                  "mainClass": "kniznica.objects.Kniha",
+                  "projectName": "javaKniznicaUloha2_8dbd6156"
+            },
+            {
+                  "type": "java",
+                  "name": "Autor",
+                  "request": "launch",
+                  "mainClass": "kniznica.objects.Autor",
+                  "projectName": "javaKniznicaUloha2_8dbd6156"
+            },
+            {
+                  "type": "java",
+                  "name": "test",
+                  "request": "launch",
+                  "mainClass": "kniznica.objects.test",
+                  "projectName": "javaKniznicaUloha2_8dbd6156"
+            },
+            {
+                  "type": "java",
+                  "name": "PersonSQL",
+                  "request": "launch",
+                  "mainClass": "sqlobject.PersonSQL",
+                  "projectName": "javaKniznicaUloha2_8dbd6156"
+            },
+            {
+                  "type": "java",
+                  "name": "KniznicaDtb",
+                  "request": "launch",
+                  "mainClass": "kniznica.KniznicaDtb",
+                  "projectName": "javaKniznicaUloha2_8dbd6156"
+            },
+            {
+                  "type": "java",
+                  "name": "Current File",
+                  "request": "launch",
+                  "mainClass": "${file}"
+            },
+            {
+                  "type": "java",
+                  "name": "Hangmann",
+                  "request": "launch",
+                  "mainClass": "hangman.Hangmann",
+                  "projectName": "javaKniznicaUloha2_8dbd6156"
+            },
+            {
+                  "type": "java",
+                  "name": "JdbcMySQL",
+                  "request": "launch",
+                  "mainClass": "kniznica.JdbcMySQL",
+                  "projectName": "javaKniznicaUloha2_8dbd6156"
+            },
+            {
+                  "type": "java",
+                  "name": "Main",
+                  "request": "launch",
+                  "mainClass": "kniznica.Main",
+                  "projectName": "javaKniznicaUloha2_8dbd6156"
+            }
+      ]
+}
